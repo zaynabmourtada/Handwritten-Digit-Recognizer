@@ -18,6 +18,11 @@ The work was conducted using Google Colab, where I integrated model selection vi
 - Model evaluation on an unseen trial dataset
 - Training and performance summary with clear graphs for each model
 
+All custom functions I wrote are clearly marked with the following comment:
+```
+  # Implemented by Zaynab Mourtada
+```
+
 ## How to Run
 
 1. Open the Colab notebook: `learn_nnet.ipynb`
@@ -29,4 +34,7 @@ The work was conducted using Google Colab, where I integrated model selection vi
 - `learn_nnet.ipynb` – Full working notebook with all models and plots
 - `CIS 481 Project 2 Report.pdf` - Final report with discussion, graphs, and weight visualizations
 - `README.txt` – this file
+- `optdigits_train.dat` – Training dataset
+- `optdigits_test.dat` – Test dataset
+- `optdigits_trial.dat` – Trial dataset for unseen evaluation
 
