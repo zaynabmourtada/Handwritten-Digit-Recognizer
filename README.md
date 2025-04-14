@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed for my CIS 481 course and is based on starter code provided by the instructor. I extended the codebase to implement full training, evaluation, visualizations, learning curves, and trial set analysis for the following models:
+This project was completed for my Computational Learning course and is based on starter code provided by the instructor. I extended the codebase to implement full training, evaluation, visualizations, learning curves, and trial set analysis for the following models:
 
 - Perceptron
 - Deep Neural Network (DNN)
